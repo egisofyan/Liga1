@@ -1,0 +1,94 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Klub Liga 1 Indonesia 2020</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Nama Klub</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="sports_titles">
+        <item>Arema FC</item>
+        <item>Bali United</item>
+        <item>Barito Putera</item>
+        <item>Bhayangkara FC</item>
+        <item>Borneo FC</item>
+        <item>Madura United</item>
+        <item>Persebaya Surabaya</item>
+        <item>Persela Lamongan</item>
+        <item>Persib Bandung</item>
+        <item>Persija Jakarta</item>
+        <item>Persik Kediri</item>
+        <item>Persipura Jayapura</item>
+        <item>Persiraja Banda Aceh</item>
+        <item>Persita Tangerang</item>
+        <item>PS Tira</item>
+        <item>PSIS Semarang</item>
+        <item>PSM Makasar</item>
+        <item>PSS Sleman</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Arema FC</item>
+        <item>Bali United</item>
+        <item>Barito Putera</item>
+        <item>Bhayangkara FC</item>
+        <item>Borneo FC</item>
+        <item>Madura United</item>
+        <item>Persebaya Surabaya</item>
+        <item>Persela Lamongan</item>
+        <item>Persib Bandung</item>
+        <item>Persija Jakarta</item>
+        <item>Persik Kediri</item>
+        <item>Persipura Jayapura</item>
+        <item>Persiraja Banda Aceh</item>
+        <item>Persita Tanggerang</item>
+        <item>PS Tira</item>
+        <item>PSIS Semarang</item>
+        <item>PSM Makasar</item>
+        <item>PSS Sleman</item>
+    </string-array>
+
+
+    <array name="sports_images">
+        <item>@drawable/arema</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/barito</item>
+        <item>@drawable/bhayangkara</item>
+        <item>@drawable/borneo</item>
+        <item>@drawable/madura</item>
+        <item>@drawable/persebaya</item>
+        <item>@drawable/persela</item>
+        <item>@drawable/persib</item>
+        <item>@drawable/persija</item>
+        <item>@drawable/persik</item>
+        <item>@drawable/persipura</item>
+        <item>@drawable/persiraja</item>
+        <item>@drawable/persita</item>
+        <item>@drawable/tira</item>
+        <item>@drawable/psis</item>
+        <item>@drawable/psm</item>
+        <item>@drawable/pss</item>
+
+    </array>
+
+
+</resources>

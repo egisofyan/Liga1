@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967630530593",
+    "firebase_url": "https://haryadi-791c0.firebaseio.com",
+    "project_id": "haryadi-791c0",
+    "storage_bucket": "haryadi-791c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967630530593:android:e93f89c938d71bf0131b60",
+        "android_client_info": {
+          "package_name": "com.ngamolsky.android.materialme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967630530593-qt6rstd7cv7vermstsssp14tanaqhnea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngamolsky.android.materialme",
+            "certificate_hash": "35da0a915907d93f419bfaf5a947a3c6fdfeb066"
+          }
+        },
+        {
+          "client_id": "967630530593-hin12sot9s6fbnk9936ckgoqu2vrkdbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxeY82EEQUC_-FAS9p1E5H5q5g0mE3XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967630530593-hin12sot9s6fbnk9936ckgoqu2vrkdbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
